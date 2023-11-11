@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664569122194",
+    "project_id": "pc02vargas-7c4bd",
+    "storage_bucket": "pc02vargas-7c4bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664569122194:android:422a6ffa696c49daef054b",
+        "android_client_info": {
+          "package_name": "com.example.pc02_renzovargas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBePBdu-tGj4nOEhG6f6zWZf3bk9qY-lTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
